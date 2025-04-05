@@ -36,3 +36,10 @@ background-image: url("https://wallpapercave.com/wp/wp4411792.jpg");
 .operator:active,.number:active{
     font-size: 13px;
 }
+.empty{
+    background-color: transparent;
+}
+#result{
+    font-size: 25px;
+    color: white;
+}
