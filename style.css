@@ -5,8 +5,8 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #container
 {
-    width: 1000px;
-    height: 500px;
+    width: 500px;
+    height: 700px;
 background-image: url("https://wallpapercave.com/wp/wp4411792.jpg");
     margin: 20px;
 }
@@ -42,4 +42,5 @@ background-image: url("https://wallpapercave.com/wp/wp4411792.jpg");
 #result{
     font-size: 25px;
     color: white;
+    text-align: center;
 }
